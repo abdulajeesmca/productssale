@@ -83,6 +83,18 @@ suitable product with price .<br>
 ➢ Total Products Page<br>
 ➢ Product Sale request page<br>
 
+## Project Installation 
+
+➢ First Install Laravel Framework<br>
+➢ If your computer already has PHP and Composer installed
+➢ First you Import Database SQL File (Database SQL backup file location : DB folder)
+➢ Then Change A Database name in .env File
+
+➢ Project Run : php artisan serve
+ 
+
+
+
 ## Screen Preview 
 
 ![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/1.png?raw=true)
