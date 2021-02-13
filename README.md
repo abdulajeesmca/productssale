@@ -95,7 +95,8 @@ suitable product with price .<br>
         DB_DATABASE=laravel<br>
         DB_USERNAME=root<br>
         DB_PASSWORD=<br>
-➢ Project Run : php artisan serve <br>
+➢ Then project file location for open your command prompt then run      
+➢ Project Run for : php artisan serve <br>
 
 ## Screen Preview 
 
