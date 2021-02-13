@@ -62,30 +62,29 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-##Products store Project 
+## Products store Project 
 
 Project Objective :
 Products store is business transactions that take place by communication networks. It is a process
 of buying and selling products. Online shopping is a form of products store  where the buyer is
 directly online to the seller’s computer usually via the internet.
 
-Customer pages :<br>
+## Customer pages :<br>
 
 ➢ To provide information about various products in a different category.<br>
 ➢ Customers can purchase Products Online.<br>
 ➢ Customers  get various information about products and can purchase a
 suitable product with price .<br>
 
-
-Admin Panel :
+## Admin Panel :
 
 ➢ Login page Default Username :admin,Password :admin@123 <br>
 ➢ Selling Products Add Page<br>
 ➢ Total Products Page<br>
 ➢ Product Sale request page<br>
 
+## Screen Preview 
 
-Home Page
 ![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/1.png?raw=true)
 
 ![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/2.png?raw=true)
