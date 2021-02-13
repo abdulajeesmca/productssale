@@ -85,15 +85,17 @@ suitable product with price .<br>
 
 ## Project Installation 
 
-➢ First Install Laravel Framework<br>
-➢ If your computer already has PHP and Composer installed
-➢ First you Import Database SQL File (Database SQL backup file location : DB folder)
-➢ Then Change A Database name in .env File
-
-➢ Project Run : php artisan serve
- 
-
-
+➢ First Install Laravel Framework <br>
+➢ If your computer already has PHP and Composer installed <br>
+➢ First you Import Database SQL File (Database SQL backup file location : DB folder)<br>
+➢ Then Change A Database name in .env File<br>
+        DB_CONNECTION=mysql<br>
+        DB_HOST=127.0.0.1<br>
+        DB_PORT=3306<br>
+        DB_DATABASE=laravel<br>
+        DB_USERNAME=root<br>
+        DB_PASSWORD=<br>
+➢ Project Run : php artisan serve <br>
 
 ## Screen Preview 
 
@@ -119,9 +121,4 @@ suitable product with price .<br>
 
 
 
-
-
-
-
-
-
+******************************************************************************************************************************************************************
