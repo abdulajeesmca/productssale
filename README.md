@@ -103,33 +103,33 @@ suitable product with price .<br>
 
 ## Admin Panel
 
-# http://127.0.0.1:8000/admin <br>
+   http://127.0.0.1:8000/admin 
 
-Admin Login Panel<br>
-    Username : admin   <br>
-    Password : admin@123<br>
+    Admin Login Panel
+    Username : admin   
+    Password : admin@123
     
-  Login this Page   <br>
+  Login this Page   
 
 ![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/5.png?raw=true)
 
-Then Displaying Admin Panel all product list page 
+    Then Displaying Admin Panel all product list page 
 
 ![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/6.png?raw=true)
 
-Add product Page : <br>
+    Add product Page :
 
-    This page Products add to displaying Home Page <br>
+    This page Products add to displaying Home Page 
     
 ![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/7.png?raw=true)
 
-This page For customer Request Product Sale details Page       
+    This page For customer Request Product Sale details Page       
    
 ![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/8.png?raw=true)
 
-# http://127.0.0.1:8000 <br>
+    http://127.0.0.1:8000 
   
-  You will Open Home Page : this page admin added products are  diplayed
+    You will Open Home Page : this page admin added products are  diplayed
 ![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/1.png?raw=true)
 
 
