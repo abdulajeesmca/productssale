@@ -100,7 +100,38 @@ suitable product with price .<br>
 
 ## Screen Preview 
 
+
+## Admin Panel
+
+# http://127.0.0.1:8000/admin <br>
+
+Admin Login Panel<br>
+    Username : admin   <br>
+    Password : admin@123<br>
+    
+  Login this Page   <br>
+
+![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/5.png?raw=true)
+
+Then Displaying Admin Panel all product list page 
+
+![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/6.png?raw=true)
+
+Add product Page : <br>
+
+    This page Products add to displaying Home Page <br>
+    
+![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/7.png?raw=true)
+
+This page For customer Request Product Sale details Page       
+   
+![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/8.png?raw=true)
+
+# http://127.0.0.1:8000 <br>
+  
+  You will Open Home Page : this page admin added products are  diplayed
 ![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/1.png?raw=true)
+
 
 ![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/2.png?raw=true)
 
@@ -108,13 +139,9 @@ suitable product with price .<br>
 
 ![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/4.png?raw=true)
 
-![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/5.png?raw=true)
-
-![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/6.png?raw=true)
-
-![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/7.png?raw=true)
-
-![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/8.png?raw=true)
+    One Products Click to Showing This page : Product Sale Page 
+    Then Buy Now click to product Buy page are displayed 
+    Customer our details enter to quick contact for seller 
 
 ![alt text](https://github.com/abdulajeesmca/productssale/blob/master//public/ss/9.png?raw=true)
 
